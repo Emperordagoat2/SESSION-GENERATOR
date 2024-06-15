@@ -69,8 +69,8 @@ ______________________________________
 ║❒ *Ytube:* _youtube.com/@odunlamidaniel_
 ║❒ *Owner:* _https://wa.me/2347041620617_
 ║❒ *Repo:* _https://github.com/Emperordagoat/asta
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
+║❒ *WaGroup:* _https://whatsapp.com/channel/0029VabABxrBVJl6z3LWzt0o
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VabABxrBVJl6z3LWzt0o
 ║❒ *Plugins:* _https://github.com/Emperordagoat/asta_
 ╚════════════════════════╝
 _____________________________________
